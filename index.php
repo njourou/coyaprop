@@ -136,7 +136,7 @@ include "./init/includes/header.php";
 
         <!--Contact Us-->
         
-        
+    <section id="contact" class="contact">
         <div class="px-3">  
             <div class="theme-container"> 
                 <div class="mdc-card main-content-header mb-5"> 
@@ -232,6 +232,7 @@ include "./init/includes/header.php";
                 </div>
             </div>  
         </div>  
+     </section>
 
     </main>
     <?php

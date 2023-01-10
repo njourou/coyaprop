@@ -34,7 +34,7 @@
             <div class="vertical-menu">   
                  
                 <div>
-                    <a href="properties.html" class="mdc-button">
+                    <a href="./" class="mdc-button">
                         <span class="mdc-button__ripple"></span>
                         <span class="mdc-button__label">Home</span> 
                     </a> 
@@ -79,7 +79,7 @@
                     </div>  
                 </div> 
                 <div>
-                    <a href="contact.html" class="mdc-button">
+                    <a href="#contact" class="mdc-button">
                         <span class="mdc-button__ripple"></span>
                         <span class="mdc-button__label">Contact</span> 
                     </a> 
@@ -126,13 +126,13 @@
         </div>  
         <div id="main-toolbar" class="mdc-elevation--z2">
             <div class="theme-container row between-xs middle-xs h-100"> 
-                <a class="logo" href="index.html"> <img src="assets/img/logo.png"  width="110" 
+                <a class="logo" href="./"> <img src="assets/img/logo.png"  width="110" 
      height="70" />
                    
                 </a>  
                 <div class="horizontal-menu d-none d-md-flex d-lg-flex d-xl-flex">  
                 <div>
-                        <a href="properties.html" class="mdc-button">
+                        <a href="./" class="mdc-button">
                             <span class="mdc-button__ripple"></span>
                             <span class="mdc-button__label">Home</span> 
                         </a> 
@@ -181,7 +181,7 @@
                     </div>   
 
                     <div>
-                        <a href="contact.html" class="mdc-button">
+                        <a href="#contact" class="mdc-button">
                             <span class="mdc-button__ripple"></span>
                             <span class="mdc-button__label">Contact</span> 
                         </a> 
