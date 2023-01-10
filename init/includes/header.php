@@ -40,7 +40,7 @@
                     </a> 
                 </div>  
                 <div>
-                    <a href="about.html" class="mdc-button">
+                    <a href="#about" class="mdc-button">
                         <span class="mdc-button__ripple"></span>
                         <span class="mdc-button__label">About us</span> 
                     </a> 
@@ -138,7 +138,7 @@
                         </a> 
                     </div>  
                     <div>
-                        <a href="properties.html" class="mdc-button">
+                        <a href="#about" class="mdc-button">
                             <span class="mdc-button__ripple"></span>
                             <span class="mdc-button__label">About</span> 
                         </a> 

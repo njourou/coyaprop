@@ -46,19 +46,7 @@ include "./init/includes/header.php";
                     <span class="mdc-fab__ripple"></span>
                     <span class="mdc-fab__icon material-icons">keyboard_arrow_right</span> 
                 </button>  
-                <div class="slide-info column center-xs middle-xs">
-                    <div id="active-slide-info" class="mdc-card p-4 column center-xs middle-xs">
-                        <h1 class="slide-title">Title</h1>
-                        <p class="location row center-xs middle-xs"> 
-                            <i class="material-icons mat-icon-lg primary-color">location_on</i>
-                            <span class="px-1">Location</span>
-                        </p> 
-                        <a href="#" class="mdc-button mdc-button--raised price"> 
-                            <span class="mdc-button__ripple"></span>
-                            <span class="mdc-button__label">price</span>    
-                        </a>                  
-                    </div>  
-                </div>  
+           
             </div>
         </div>
     <!-- End Hero -->
@@ -67,8 +55,46 @@ include "./init/includes/header.php";
 
 
 <!--Our Services-->
+<section id="about" class="about section-bg">
+<h1 class="section-title">ABOUT US</h1>
 
+</section>
 <!--End Our Services-->
+<div class="section-title">
+
+<section id="tabs" class="tabs">
+    <div class="container" data-aos="fade-up">
+
+        <ul class="nav nav-tabs row d-flex">
+            <li class="nav-item col-3">
+                <a class="nav-link active show"href="industrial.php" >
+                <i class="material-icons mat-icon-xlg primary-color">home</i>
+                    <h4 class="d-none d-lg-block">Industrial</h4>
+                </a>
+            </li>
+            <li class="nav-item col-3">
+                <a class="nav-link active show" href="residential.php">
+                <i class="material-icons mat-icon-xlg primary-color">home</i>
+                    <h4 class="d-none d-lg-block">
+                        Residential</h4>
+                </a>
+            </li>
+            <li class="nav-item col-3">
+                <a class="nav-link active show"href="commercial.php">
+                <i class="material-icons mat-icon-xlg primary-color">home</i>
+                    <h4 class="d-none d-lg-block">Commercial</h4>
+                </a>
+            </li>
+        </ul>
+
+   
+    </div>
+
+    </div>
+    </div>
+    </div> 
+</div>
+</section>
 
     <div class="section mt-3">
             <div class="px-3">
